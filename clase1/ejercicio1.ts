@@ -1,0 +1,12 @@
+console.log("como cocinar una torta");
+console.log("----------------------------");
+console.log("reunir los ingredientes necesarios");
+console.log("romper dos huevos y agregar una taza de azucar en un recipiente");
+console.log("batir estos ingredientes hasta integrar");
+console.log("añadir una media taza de aceite, una de harina y una de leche");
+console.log("batir hasta que se integre");
+console.log("montar en un molde para tortas");
+console.log("cocinar en el horno por unos cuarenta minutos aproximadamente");
+console.log("dejar enfriar");
+console.log("desmontar del molde");
+console.log("servirse a gusto");
